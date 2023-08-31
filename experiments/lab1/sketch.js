@@ -1,12 +1,12 @@
 function setup() {
   createCanvas(600, 600);
-  background(220);
   noLoop();
 }
 function changeColor() {
   color = random(0, 255);
 }
 function draw() {
+  background(255);
   // Draw circles
   noFill();
   strokeWeight(3);
