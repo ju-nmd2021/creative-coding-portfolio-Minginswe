@@ -37,7 +37,7 @@ function draw() {
     let x2 = random(width);
     let y2 = random(height);
     let c = color(random(255), random(255), random(255),random(100));
-    fill(c)
+    fill(c);
     rect(x1, y1, x2, y2);
   }
 }
