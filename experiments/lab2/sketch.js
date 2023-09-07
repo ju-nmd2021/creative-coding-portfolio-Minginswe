@@ -157,14 +157,29 @@ class Agent {
   const divider = 4;
   let field;
   let agents = [];
-  
+
+
+  let moveAgent = false; 
+  function keyPressed() {
+    if (keyCode === 65) {
+    moveAgent = true; 
+   }
+  }
+
+ function keyReleased() {
+   if (keyCode === 65) {
+    moveAgent = false; 
+   }
+ }
   function draw() {
 	for (let agent of agents) {
 	  const x = Math.floor(agent.position.x / fieldSize);
 	  const y = Math.floor(agent.position.y / fieldSize);
 	  const desiredDirection = field[x][y];
 	  agent.follow(desiredDirection);
-	  agent.update();
+	   if (moveAgent) {
+		agent.update();
+	  }
 	  agent.checkBorders();
 	  agent.draw();
 	}
