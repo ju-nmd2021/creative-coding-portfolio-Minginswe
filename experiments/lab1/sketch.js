@@ -7,7 +7,7 @@ function changeColor() {
 }
 function draw() {
   background(255);
-  // Draw circles
+  // Draw ellipse
   noFill();
   strokeWeight(3);
   for (let i = 0; i < 10; i++) {
