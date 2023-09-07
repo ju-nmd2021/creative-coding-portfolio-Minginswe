@@ -158,7 +158,7 @@ class Agent {
   let field;
   let agents = [];
 
-
+  // I added a keyboard event here 
   let moveAgent = false; 
   function keyPressed() {
     if (keyCode === 65) {
@@ -177,6 +177,7 @@ class Agent {
 	  const y = Math.floor(agent.position.y / fieldSize);
 	  const desiredDirection = field[x][y];
 	  agent.follow(desiredDirection);
+	  / when press key "a" , a line will be drawn	
 	   if (moveAgent) {
 		agent.update();
 	  }
