@@ -1,5 +1,5 @@
-//The fllowing 169 lines code was adapted from Garrit's lecture https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/9/6
-//The following 168 lines of code was added by courtesy of Garrit Schaap
+//The fllowing 170 lines code was adapted from Garrit's lecture https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/9/6
+//The following 169 lines of code was added by courtesy of Garrit Schaap
 //I started with Garrit's code, but I have made some changes and played around in some lines of the code
 class Agent {
 	constructor(x, y, maxSpeed, maxForce) {
