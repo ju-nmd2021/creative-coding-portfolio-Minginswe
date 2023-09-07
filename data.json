@@ -5,5 +5,12 @@
     "description": "My inspiration comes from Picasso's abstract paintings, which are composed of different lines and shapes, and each click generates a new painting. I use p5.js to draw lines, rectangles and circles, then use for loop to draw them repeatedly, and then use the random function to adjust different colors and positions. And a mouse click event is added, which will be regenerated when the mouse event is triggered.",
     "background": "Abstract art is an art movement that originated in the early 20th century. Its main feature is to strip the images and objects in artworks and express the artist's emotion, viewpoint and creativity with pure shapes, colors, lines and compositions. Abstract works usually do not directly depict recognizable real objects, and also abstract art and randomness are a good match,so i used the random() a lot",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab1/sketch.js"
+  },
+  {
+    "file": "experiments/lab2/sketch.js",
+    "name": "messylines",
+    "description": "my inspirations from garrit's lecture, I have seen his examples in the lecture, so I pick the steering behaviours",
+    "background": "Steering behaviors aim to help autonomous characters move in a realistic manner, by using simple forces that are combined to produce life-like, improvisational navigation around the characters' environment.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab2/sketch.js"
   }
 ]
