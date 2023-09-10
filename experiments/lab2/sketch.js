@@ -177,7 +177,7 @@ class Agent {
 	  const y = Math.floor(agent.position.y / fieldSize);
 	  const desiredDirection = field[x][y];
 	  agent.follow(desiredDirection);
-	  / when press key "a" , a line will be drawn	
+	  // when press key "a" , a line will be drawn	
 	   if (moveAgent) {
 		agent.update();
 	  }
