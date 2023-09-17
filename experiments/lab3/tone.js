@@ -1,3 +1,10 @@
+let f3 = document.getElementById('f3');
+let f3Sharp = document.getElementById('f3Sharp');
+let g3 = document.getElementById('g3');
+let g3Sharp = document.getElementById('g3Sharp');
+let a3 = document.getElementById('a3');
+let a3Sharp = document.getElementById('a3Sharp');
+let b3 = document.getElementById('b3');
 let c = document.getElementById("c");
 let cSharp = document.getElementById('cSharp');
 let d = document.getElementById('d');
@@ -12,6 +19,40 @@ let aSharp = document.getElementById('aSharp');
 let b = document.getElementById('b')
 
 
+f3.addEventListener("click", () => {
+    const synth = new Tone.Synth().toDestination();
+    synth.triggerAttackRelease("F3", "8n");
+});
+
+f3Sharp.addEventListener("click", () => {
+    const synth = new Tone.Synth().toDestination();
+    synth.triggerAttackRelease("F#3", "8n");
+});
+
+g3.addEventListener("click", () => {
+    const synth = new Tone.Synth().toDestination();
+    synth.triggerAttackRelease("G3", "8n");
+});
+
+g3Sharp.addEventListener("click", () => {
+    const synth = new Tone.Synth().toDestination();
+    synth.triggerAttackRelease("G#3", "8n");
+});
+
+a3.addEventListener("click", () => {
+    const synth = new Tone.Synth().toDestination();
+    synth.triggerAttackRelease("A3", "8n");
+});
+
+a3Sharp.addEventListener("click", () => {
+    const synth = new Tone.Synth().toDestination();
+    synth.triggerAttackRelease("A#3", "8n");
+});
+
+b3.addEventListener("click", () => {
+    const synth = new Tone.Synth().toDestination();
+    synth.triggerAttackRelease("B3", "8n");
+});
 
 c.addEventListener("click", () => {
     const synth = new Tone.Synth().toDestination();
