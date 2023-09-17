@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    width: 400px;
+    flex-wrap: wrap;
+}
+
+li {
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    list-style: none;
+    border:1px solid #000;
+}
+
+.white {
+    background-color: #fff;
+}
