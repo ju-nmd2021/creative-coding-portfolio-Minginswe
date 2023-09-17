@@ -7,13 +7,12 @@ body {
 
 ul {
     display: flex;
-    width: 400px;
     flex-wrap: wrap;
 }
 
 li {
-    width: 100px;
-    height: 100px;
+    width: 4vw;
+    height: 10vw;
     background-color: #000;
     list-style: none;
     border:1px solid #000;
@@ -21,4 +20,5 @@ li {
 
 .white {
     background-color: #fff;
+    height: 20vw;
 }
