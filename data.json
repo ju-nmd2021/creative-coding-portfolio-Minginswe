@@ -12,5 +12,12 @@
     "description": "my inspirations from garrit's lecture, I have seen his examples in the lecture, so I pick the steering behaviours, if you press the 'a' key, it will generate the lines, when you press the ket a, it will generate lines",
     "background": "Steering behaviors aim to help autonomous characters move in a realistic manner, by using simple forces that are combined to produce life-like, improvisational navigation around the characters' environment.",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab2/sketch.js"
+  },
+   {
+    "file": "experiments/lab3/tone.js",
+    "name": "keybroad",
+    "description": "it is a keybroad, you can play the note from F3 to B4",
+    "background": "It is just a piano keybroad, the art is from the people playing it",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab3/tone.js"
   }
 ]
