@@ -19,5 +19,12 @@
     "description": "according to the lab2, i addded sound to it",
     "background": "Steering behaviors - sound",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab3/index.html"
+  },
+  {
+    "file": "experiments/lab4/sketch.js",
+    "name": "colorfulmusicgenerater",
+    "description": "according to the lab3,changed the aesthetic of lab3,when you clikc mouse, iw will chnage the square color and generate note from the scale",
+    "background": "Steering behaviors - sound",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab4/index.html"
   }
 ]
