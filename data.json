@@ -13,6 +13,13 @@
     "background": "Steering behaviors aim to help autonomous characters move in a realistic manner, by using simple forces that are combined to produce life-like, improvisational navigation around the characters' environment.",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab2/sketch.js"
   },
+  {
+    "file": "experiments/lab2-2/sketch.js",
+    "name": "snow in winter night",
+    "description": "White snowflakes will follow your mouse movement in the dark night",
+    "background": "Using vector and random functions to make the spots move",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab2/sketch.js"
+  },
    {
     "file": "experiments/lab3/sketch.js",
     "name": "sound-messylines",
