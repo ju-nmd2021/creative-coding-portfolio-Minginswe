@@ -22,14 +22,14 @@
   },
    {
     "file": "experiments/lab3/sketch.js",
-    "name": "sound-messylines",
+    "name": "sound-messylines(SOUND)",
     "description": "according to the lab2, i addded sound to it",
     "background": "Steering behaviors - sound",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab3/sketch.js"
   },
   {
     "file": "experiments/lab4/sketch.js",
-    "name": "colorfulmusicgenerater",
+    "name": "colorfulmusicgenerater(SOUND)",
     "description": "according to the lab3,changed the aesthetic of lab3,when you clikc mouse, iw will chnage the square color and generate note from the scale",
     "background": "Steering behaviors - sound",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab4/sketch.js"
