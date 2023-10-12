@@ -1,4 +1,4 @@
-// the inspiration and the basic code is from https://juejin.cn/post/7251648321545994295
+// the inspiration and the basic code was adapted from https://juejin.cn/post/7251648321545994295
 const stars = [];
 
 function setup() {
