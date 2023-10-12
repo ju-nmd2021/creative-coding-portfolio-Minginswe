@@ -1,4 +1,4 @@
-//The fllowing 186 lines code was adapted from Garrit's lecture https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/9/6
+//The code was adapted from Garrit's lecture https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/9/6
 //The following 185 lines of code was added by courtesy of Garrit Schaap
 //I started with Garrit's code, but I have made some changes and played around in some lines of the code, also i added keyborad event as input
 class Agent {
