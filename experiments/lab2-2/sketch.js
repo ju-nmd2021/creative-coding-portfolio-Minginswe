@@ -32,7 +32,7 @@ class Star {
 
     initDirection() {
         const mousePos = createVector(mouseX, mouseY);
-        const direction = p5.Vector.sub(mousePos, this.position).normalize();
+        const direction = p5.Vector.sub(mousePos, this.position);
         this.acceleration = direction.mult(random(0.1, 0.5));
     }
 
