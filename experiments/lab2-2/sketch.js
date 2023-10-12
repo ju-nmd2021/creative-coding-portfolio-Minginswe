@@ -38,7 +38,7 @@ class Star {
 
     update(mouseX, mouseY) {
         const mousePos = createVector(mouseX, mouseY);
-        // the p5.Vectire.sub from https://p5js.org/zh-Hans/reference/#/p5.Vector
+        // the p5.Vectire.sub and normalize from https://p5js.org/zh-Hans/reference/#/p5.Vector and https://p5js.org/zh-Hans/reference/#/p5.Vector/normalize
         const direction = p5.Vector.sub(mousePos, this.position).normalize();
         this.acceleration = direction.mult(random(0.1, 0.5));
 
