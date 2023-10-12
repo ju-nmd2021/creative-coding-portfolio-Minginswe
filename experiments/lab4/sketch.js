@@ -1,4 +1,4 @@
-// the code (using cos and sin to draw something) inspriation was adapted from a tutorial https://www.bilibili.com/video/BV1US4y1b7m4/?spm_id_from=333.337.search-card.all.click&vd_source=681516f3316a8d6de525c5a99f6abc25
+// the code (using cos and sin to draw something)  was adapted from a tutorial https://www.bilibili.com/video/BV1US4y1b7m4/?spm_id_from=333.337.search-card.all.click&vd_source=681516f3316a8d6de525c5a99f6abc25
 let len = 0;
 let r = 200;
 
