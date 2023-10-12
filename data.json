@@ -9,7 +9,7 @@
   {
     "file": "experiments/lab2/sketch.js",
     "name": "messylines",
-    "description": "Press A TO Run th code! my inspirations from garrit's lecture, I have seen his examples in the lecture, so I pick the steering behaviours, if you press the 'a' key, it will generate the lines, when you press the ket a, it will generate lines",
+    "description": "Press A TO Run the code! my inspirations from garrit's lecture, I have seen his examples in the lecture, so I pick the steering behaviours, if you press the 'a' key, it will generate the lines, when you press the ket a, it will generate lines",
     "background": "Steering behaviors aim to help autonomous characters move in a realistic manner, by using simple forces that are combined to produce life-like, improvisational navigation around the characters' environment.",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab2/sketch.js"
   },
@@ -23,7 +23,7 @@
    {
     "file": "experiments/lab3/sketch.js",
     "name": "sound-messylines(SOUND)",
-    "description": "Press A TO Run th code! according to the lab2, i addded sound to it",
+    "description": "Press A TO Run the code! according to the lab2, i addded sound to it",
     "background": "Steering behaviors - sound",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-Minginswe/blob/main/experiments/lab3/sketch.js"
   },
